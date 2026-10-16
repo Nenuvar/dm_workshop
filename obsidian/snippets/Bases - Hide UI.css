@@ -1,0 +1,4 @@
+/* Hide Bases query toolbar */
+div.query-toolbar {
+  display: none !important;
+}

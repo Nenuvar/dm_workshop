@@ -1,0 +1,14 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "Bases - Hide UI",
+    "Bases_DataviewStyle",
+    "HoverProperties_-_Columns",
+    "S - Encoded Fonts",
+    "SailKite - chassis_callouts",
+    "SailKite - TabsInObsidian",
+    "Tab_Icons",
+    "TabsInObsidian - MaxH",
+    "TabsInObsidian - MaxH480"
+  ]
+}
